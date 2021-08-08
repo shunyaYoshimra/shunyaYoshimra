@@ -2,7 +2,7 @@
 ### Hi there 👋
 
 <!--
-**shunyaYoshmura/shunyaYoshmura** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**shunyaYoshmra/shunyaYoshmra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -20,12 +20,12 @@ Here are some ideas to get you started:
 
 
 <div>
-  <img width=800 src="https://github-profile-trophy.vercel.app/?username=shunyaYoshmura&column=8&theme=gruvbox&no-frame=true&count_private=true"/>
+  <img width=800 src="https://github-profile-trophy.vercel.app/?username=shunyaYoshmra&column=8&theme=gruvbox&no-frame=true&count_private=true"/>
 </div>
 
 ---
 
 <div>
-  <img height="150" align="left" src="https://github-readme-stats.vercel.app/api?username=shunyaYoshmura&include_all_commits=true&theme=tokyonight&count_private=true" />
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shunyaYoshmura&layout=compact&count_private=true&theme=tokyonight" />
+  <img height="150" align="left" src="https://github-readme-stats.vercel.app/api?username=shunyaYoshmra&include_all_commits=true&theme=tokyonight&count_private=true" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shunyaYoshmra&layout=compact&count_private=true&theme=tokyonight" />
 </div>
